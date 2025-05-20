@@ -45,7 +45,7 @@ Communication primarily occurs over your local TCP/IP network.
 
 * Python 3.x (e.g., Python 3.7+)
 * A local network (Wi-Fi or Ethernet) connecting all participating devices.
-* _[List any other major Python libraries your project depends on, e.g., `tkinter`, `PyQt5`, `pynput`, `mouse`, `websockets`, etc. - **YOU NEED TO FILL THIS IN**]_
+* _[List any other major Python libraries your project depends on, e.g., `tkinter`, `PyQt5`, `pynput`, `mouse`, `websockets`, etc._
     * Example: `pip install pynput`
 
 ## ⚙️ Installation
