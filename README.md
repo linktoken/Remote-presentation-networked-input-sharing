@@ -51,11 +51,7 @@ Communication primarily occurs over your local TCP/IP network.
 ## ⚙️ Installation
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://www.google.com/search?q=https://github.com/your-username/your-repository-name.git](https://www.google.com/search?q=https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
-    ```
-    _(Replace `your-username` and `your-repository-name`)_
+
 
 2.  **Set up a virtual environment (recommended):**
     ```bash
